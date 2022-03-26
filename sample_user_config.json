@@ -9,13 +9,12 @@
   },
   "synoinfo": {
 
-          "internalportcfg" : "0x000f",
-          "maxdisks" : "16",
-	      "support_bde_internal_10g" : "no",
-	      "support_disk_compatibility" : "no",
-          "support_memory_compatibility" : "no"
-},
+    "internalportcfg" : "0x000f",
+    "maxdisks" : "16",
+	  "support_bde_internal_10g" : "no",
+	  "support_disk_compatibility" : "no",
+    "support_memory_compatibility" : "no"
+ },
   "ramdisk_copy": {},
-  
 }
 
