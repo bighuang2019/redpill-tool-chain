@@ -16,5 +16,6 @@
     "support_memory_compatibility" : "no"
  },
   "ramdisk_copy": {},
+  "extensions": []
 }
 
